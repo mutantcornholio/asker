@@ -36,12 +36,12 @@
     }
   ],
   "files": [
-      "lib",
-      "*.md"
+    "lib",
+    "*.md"
   ],
   "readmeFilename": "README.md",
   "dependencies": {
-    "asker-advanced-agent": "^0.1.0",
+    "asker-advanced-agent": "git://github.com/mutantcornholio/asker-advanced-agent.git#keep-alive-agents",
     "contimer": "^1.0.1",
     "object-assign": "^4.0.1",
     "retry": "^0.8.0",
